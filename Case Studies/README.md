@@ -1,4 +1,11 @@
-* Case Studies
+## Case Studies
+
+
+
+* Customer clustering
+* Sentiment Analysis
+* Marketing Analytics
+
 
 
 
