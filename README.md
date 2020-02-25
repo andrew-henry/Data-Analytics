@@ -4,4 +4,7 @@ Data Analysis
 
 A collection of notebooks, projects, & files 
 
-# Contents:
+## Contents:
+
+- Case Studies
+- Statistics
