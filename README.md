@@ -1,10 +1,3 @@
-# Data-Analytics
-Data Analysis
+# Data Science
 
-
-A collection of notebooks, projects, & files 
-
-## Contents:
-
-- Case Studies
-- Statistics
+A collection of Jupyter notebooks on projects and topics on data analysis, data visualizations, statistics, numerical computing, algorithm implementations, data engineering, case studies...
