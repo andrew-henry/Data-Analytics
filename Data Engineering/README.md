@@ -1,4 +1,11 @@
  ## Resources
+ 
+ * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+ 
+ 
+ 
+ 
+ 
 
 Credits to Andreas Kretz author of the Data Engineering Cookbook
 
