@@ -9,7 +9,7 @@
 
 Credits to Andreas Kretz author of the Data Engineering Cookbook
 
-   * [Andreas Kretz Linkedin](https://de.linkedin.com/in/andreas-kretz)
+   * [Andreas Kretz Linkedin](https://www.linkedin.com/in/andreas-kretz/)
    
    
    * [Youtube Channel](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA)
