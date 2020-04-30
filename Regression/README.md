@@ -1,2 +1,2 @@
 
-In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables. 
+In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables. [Wikipedia](https://en.wikipedia.org/wiki/Regression_analysis)
