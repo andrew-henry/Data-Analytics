@@ -2,3 +2,5 @@
 
 
 * What is gradient descent
+
+* The use of gradient descent in algorithms
