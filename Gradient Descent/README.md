@@ -8,3 +8,5 @@
 * Lessons learned from - 
 
 * The old and new methods of gradient descent 
+
+* Tutorials
