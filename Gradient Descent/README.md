@@ -10,3 +10,5 @@
 * The old and new methods of gradient descent 
 
 * Tutorials
+
+* Credits to -
