@@ -11,4 +11,4 @@
 
 * Tutorials
 
-* Credits to -
+* Credits to - Jason Brownlee
