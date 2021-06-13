@@ -11,4 +11,4 @@
 
 * Tutorials
 
-* Credits to - Jason Brownlee
+* Credits to - Jason Brownlee https://machinelearningmastery.com/
