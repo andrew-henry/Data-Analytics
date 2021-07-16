@@ -5,8 +5,7 @@ A collection of Jupyter notebooks on projects and topics in data analysis, data 
 
 Addition of data engineering
 
-
-## Statistics
+Statistics
 --
 
 * Chi-Squared Test - The term "chi-squared test," also written as χ2 test, refers to certain types of statistical hypothesis tests that are valid to perform when the test statistic is chi-squared distributed under the null hypothesis. Often, however, the term is used to refer to Pearson's chi-squared test and variants thereof. Pearson's chi-squared test is used to determine whether there is a statistically significant difference (i.e., a magnitude of difference that is unlikely to be due to chance alone) between the expected frequencies and the observed frequencies in one or more categories of a so-called contingency table.
