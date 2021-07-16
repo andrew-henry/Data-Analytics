@@ -16,4 +16,6 @@ Statistics
 
 * Kendall’s Rank Correlation - is a statistic used to measure the ordinal association between two measured quantities. A τ test is a non-parametric hypothesis test for statistical dependence based on the τ coefficient.
 
-
+Pandas
+-- 
+Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.  [Source: Wikipedia](https://en.wikipedia.org/wiki/Pandas_(software))
