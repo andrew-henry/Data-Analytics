@@ -20,6 +20,8 @@ Statistics
 
 * Pearson’s Correlation Coefficient - is the test statistics that measures the statistical relationship, or association, between two continuous variables. It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.
 
+* Durbin Watson Statistic -
+
 Pandas
 -- 
 Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.  [Source: Wikipedia](https://en.wikipedia.org/wiki/Pandas_(software))
