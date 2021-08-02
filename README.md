@@ -20,7 +20,7 @@ Statistics
 
 * Pearson’s Correlation Coefficient - is the test statistics that measures the statistical relationship, or association, between two continuous variables. It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.
 
-* Durbin Watson Statistic -
+* Durbin Watson Statistic - is a test statistic used to detect the presence of autocorrelation at lag 1 in the residuals (prediction errors) from a regression analysis
 
 Pandas
 -- 
