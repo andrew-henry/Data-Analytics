@@ -21,21 +21,23 @@ Credits to Andreas Kretz author of the Data Engineering Cookbook
 Data Engineering Concepts
 --
 
-* Schema 
+* Schema - 
 
-* Distributed Systems 
+* Distributed Systems - 
+
+* Graph Databases -
 
 * Data Warehouse
 
 * Data Lake - is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
 
-* OLTP
+* OLTP - 
 
-* OLAP
+* OLAP - 
 
-* Block Storage
+* Block Storage - 
 
-* File Storage
+* File Storage - 
 
 
 
