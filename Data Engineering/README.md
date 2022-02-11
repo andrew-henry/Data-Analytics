@@ -27,7 +27,7 @@ Data Engineering Concepts
 
 * Data Warehouse
 
-* Data Lake 
+* Data Lake - is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
 
 * OLTP
 
