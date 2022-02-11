@@ -25,6 +25,8 @@ Data Engineering Concepts
 
 * Distributed Systems - 
 
+* Ralational Databases - 
+
 * Ralational Database Management System (RDBMS) -
 
 * Graph Databases -
