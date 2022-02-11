@@ -21,7 +21,23 @@ Credits to Andreas Kretz author of the Data Engineering Cookbook
 Data Engineering Concepts
 --
 
-*
+* Schema 
+
+* Distributed Systems 
+
+* Data Warehouse
+
+* Data Lake 
+
+* OLTP
+
+* OLAP
+
+* Block Storage
+
+* File Storage
+
+* 
 
 
 
