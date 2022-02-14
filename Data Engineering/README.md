@@ -29,7 +29,7 @@ Data Engineering Concepts
 
 * Ralational Database Management System (RDBMS) -
 
-* Graph Databases -
+* Graph Databases - In computing, a graph database is a database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data. A key concept of the system is the graph. The graph relates the data items in the store to a collection of nodes and edges, the edges representing the relationships between the nodes.
 
 * Data Warehouse
 
