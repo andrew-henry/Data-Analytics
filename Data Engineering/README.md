@@ -31,7 +31,7 @@ Data Engineering Concepts
 
 * Graph Databases - In computing, a graph database is a database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data. A key concept of the system is the graph. The graph relates the data items in the store to a collection of nodes and edges, the edges representing the relationships between the nodes.
 
-* Data Warehouse
+* Data Warehouse - In computing, a data warehouse, also known as an enterprise data warehouse, is a system used for reporting and data analysis and is considered a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources.
 
 * Data Lake - is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
 
