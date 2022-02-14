@@ -39,7 +39,7 @@ Data Engineering Concepts
 
 * OLAP - 
 
-* Block Storage - 
+* Block Storage - Block storage, sometimes referred to as block-level storage, is a technology that is used to store data files on Storage Area Networks (SANs) or cloud-based storage environments. Developers favor block storage for computing situations where they require fast, efficient, and reliable data transportation.
 
 * File Storage - 
 
