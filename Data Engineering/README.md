@@ -58,6 +58,15 @@ Data Engineering Concepts
 * Petabyte 
 
 
+* Latency
+
+* Input-Output Operations Per Second (IOPS) - 
+
+* Throughput - 
+
+* Bandwidth - 
+
+
 
 
 
