@@ -25,7 +25,10 @@ Data Engineering Concepts
 
 * Data Serialization - 
 
+
 * Distributed Systems - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another from any system. The components interact with one another in order to achieve a common goal.
+
+* Cluster 
 
 * Ralational Databases - 
 
