@@ -21,6 +21,10 @@ Credits to Andreas Kretz author of the Data Engineering Cookbook
 Data Engineering Concepts
 --
 
+* Data Quality - 
+
+* Big Data - 
+
 * Schema - 
 
 * Data Serialization - 
@@ -31,6 +35,16 @@ Data Engineering Concepts
 * Node
 
 * Cluster 
+
+* Horizontal Scaling - 
+
+* Vertical Scaling - 
+
+* Partitioning - 
+
+* Replication - 
+
+* ETL (Extract transform load) -
 
 * Ralational Databases - 
 
@@ -45,6 +59,12 @@ Data Engineering Concepts
 * OLTP - 
 
 * OLAP - 
+
+* Read after write consistency - 
+
+* Eventual consistency - 
+
+
 
 * Block Storage - Block storage, sometimes referred to as block-level storage, is a technology that is used to store data files on Storage Area Networks (SANs) or cloud-based storage environments. Developers favor block storage for computing situations where they require fast, efficient, and reliable data transportation. [www.ibm.com](https://www.ibm.com/cloud/learn/block-storage)
 
