@@ -88,6 +88,17 @@ Data Engineering Concepts
 
 * Bandwidth - 
 
+* Serverless Computing - 
+
+* Serverless Architecture -
+
+* Iaas (Infrastructure as a service) - 
+
+* Paas (Platform as a service) - 
+
+* Saas (Software as a sercice) - 
+
+
 
 
 
