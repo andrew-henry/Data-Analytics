@@ -115,8 +115,11 @@ Data Engineering Concepts
 
 * Virtualisation - 
 
-* 
+* TCP/IP (Transmission Control Protocol/Internet Protocol) - 
 
+* SSH (Secure Shell) - 
+
+* FTP (File Transfer Protocol) -
 
 
 
