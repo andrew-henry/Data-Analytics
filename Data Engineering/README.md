@@ -121,6 +121,12 @@ Data Engineering Concepts
 
 * FTP (File Transfer Protocol) -
 
+* HDD (Hard Disk Drive) - 
+
+* SDD (Solid State Drive) - 
+
+* RAM (Random Access Memory) - 
+
 
 
 
