@@ -32,9 +32,9 @@ Data Engineering Concepts
 
 * Distributed Systems - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another from any system. The components interact with one another in order to achieve a common goal.
 
-* Node
+* Node - 
 
-* Cluster 
+* Cluster - 
 
 * Horizontal Scaling - 
 
@@ -52,6 +52,16 @@ Data Engineering Concepts
 
 * Graph Databases - In computing, a graph database is a database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data. A key concept of the system is the graph. The graph relates the data items in the store to a collection of nodes and edges, the edges representing the relationships between the nodes.
 
+* Non Relational Databases - 
+
+* Document-Oriented Databases -
+
+* Key-Value Databases - 
+
+* Time Series Databases - 
+
+
+
 * Data Warehouse - In computing, a data warehouse, also known as an enterprise data warehouse, is a system used for reporting and data analysis and is considered a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources.
 
 * Data Lake - is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
@@ -64,6 +74,7 @@ Data Engineering Concepts
 
 * Eventual consistency - 
 
+* ACID - 
 
 
 * Block Storage - Block storage, sometimes referred to as block-level storage, is a technology that is used to store data files on Storage Area Networks (SANs) or cloud-based storage environments. Developers favor block storage for computing situations where they require fast, efficient, and reliable data transportation. [www.ibm.com](https://www.ibm.com/cloud/learn/block-storage)
@@ -77,10 +88,11 @@ Data Engineering Concepts
 
 * Terabyte - 
 
-* Petabyte 
+* Petabyte - 
 
+* Cache - 
 
-* Latency
+* Latency - 
 
 * Input-Output Operations Per Second (IOPS) - 
 
@@ -96,7 +108,15 @@ Data Engineering Concepts
 
 * Paas (Platform as a service) - 
 
-* Saas (Software as a sercice) - 
+* Saas (Software as a sercice) -
+
+
+* Cloud Computing -
+
+* Virtualisation - 
+
+* 
+
 
 
 
