@@ -44,7 +44,7 @@ Data Engineering Concepts
 
 * Replication - 
 
-* ETL (Extract transform load) -
+* ETL (Extract transform load) - In computing, extract, transform, load is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.
 
 * Ralational Databases - 
 
