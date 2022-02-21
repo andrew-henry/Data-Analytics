@@ -66,7 +66,7 @@ Data Engineering Concepts
 
 * Data Lake - is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
 
-* OLTP - 
+* OLTP - In online transaction processing (OLTP), information systems typically facilitate and manage transaction-oriented applications. Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently
 
 * OLAP - 
 
