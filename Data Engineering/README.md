@@ -68,7 +68,7 @@ Data Engineering Concepts
 
 * OLTP - In online transaction processing (OLTP), information systems typically facilitate and manage transaction-oriented applications. Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently
 
-* OLAP - 
+* OLAP - Online analytical processing, or OLAP, is an approach to answer multi-dimensional analytical queries swiftly in computing.
 
 * Read after write consistency - 
 
