@@ -36,7 +36,7 @@ Data Engineering Concepts
 
 * Cluster - 
 
-* Horizontal Scaling - 
+* Horizontal Scaling - A "horizontally scalable" system is one that can increase capacity by adding more computers to the system. Horizontally scalable systems are oftentimes able to outperform vertically scalable systems by enabling parallel execution of workloads and distributing those across many different computers.
 
 * Vertical Scaling - 
 
