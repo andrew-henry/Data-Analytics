@@ -52,7 +52,7 @@ Data Engineering Concepts
 
 * Graph Databases - In computing, a graph database is a database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data. A key concept of the system is the graph. The graph relates the data items in the store to a collection of nodes and edges, the edges representing the relationships between the nodes.
 
-* Non Relational Databases - 
+* Non Relational Databases - A non-relational database is a database that does not use the tabular schema of rows and columns found in most traditional database systems. Instead, non-relational databases use a storage model that is optimized for the specific requirements of the type of data being stored.
 
 * Document-Oriented Databases -
 
