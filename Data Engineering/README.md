@@ -54,7 +54,7 @@ Data Engineering Concepts
 
 * Non Relational Databases - A non-relational database is a database that does not use the tabular schema of rows and columns found in most traditional database systems. Instead, non-relational databases use a storage model that is optimized for the specific requirements of the type of data being stored.
 
-* Document-Oriented Databases -
+* Document-Oriented Databases - A document-oriented database, or document store, is a computer program and data storage system designed for storing, retrieving and managing document-oriented information, also known as semi-structured data.
 
 * Key-Value Databases - 
 
