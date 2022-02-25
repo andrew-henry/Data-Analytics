@@ -58,8 +58,7 @@ Data Engineering Concepts
 
 * Key-Value Databases - 
 
-* Time Series Databases - 
-
+* Time Series Databases - A time series database is a software system that is optimized for storing and serving time series through associated pairs of time and value.
 
 
 * Data Warehouse - In computing, a data warehouse, also known as an enterprise data warehouse, is a system used for reporting and data analysis and is considered a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources.
