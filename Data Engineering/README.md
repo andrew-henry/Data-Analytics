@@ -56,7 +56,7 @@ Data Engineering Concepts
 
 * Document-Oriented Databases - A document-oriented database, or document store, is a computer program and data storage system designed for storing, retrieving and managing document-oriented information, also known as semi-structured data.
 
-* Key-Value Databases - 
+* Key-Value Databases - A key–value database is a data storage paradigm designed for storing, retrieving, and managing associative arrays, and a data structure more commonly known today as a dictionary or hash table.
 
 * Time Series Databases - A time series database is a software system that is optimized for storing and serving time series through associated pairs of time and value.
 
