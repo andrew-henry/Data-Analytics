@@ -69,7 +69,7 @@ Data Engineering Concepts
 
 * OLAP - Online analytical processing, or OLAP, is an approach to answer multi-dimensional analytical queries swiftly in computing.
 
-* Read after write consistency - 
+* Read after write consistency - Read-after-write consistency is the ability to view changes (read data) right after making those changes (write data).
 
 * Eventual consistency - 
 
