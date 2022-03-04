@@ -3,8 +3,6 @@
 A collection of Jupyter notebooks on projects and topics in data analysis, data visualizations, statistics, numerical computing, algorithm implementations, data engineering, case studies...
 
 
-Addition of data engineering
-
 Statistics
 --
 
@@ -46,4 +44,7 @@ In machine learning, hyperparameter optimization or tuning is the problem of cho
 R
 --
 R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners and statisticians for data analysis and developing statistical software.
+
+Data Engineering
+--
 
