@@ -21,28 +21,12 @@ Credits to Andreas Kretz author of the Data Engineering Cookbook
 Data Engineering Concepts
 --
 
-* Data Quality - 
-
-* Big Data - 
-
-* Schema - 
-
-* Data Serialization - 
-
 
 * Distributed Systems - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another from any system. The components interact with one another in order to achieve a common goal.
-
-* Node - 
-
-* Cluster - 
 
 * Horizontal Scaling - A "horizontally scalable" system is one that can increase capacity by adding more computers to the system. Horizontally scalable systems are oftentimes able to outperform vertically scalable systems by enabling parallel execution of workloads and distributing those across many different computers.
 
 * Vertical Scaling - Vertical scaling means adding more resources to a single node and adding additional CPU, RAM, and DISK to cope with an increasing workload.
-
-* Partitioning - 
-
-* Replication - 
 
 * ETL (Extract transform load) - In computing, extract, transform, load is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.
 
@@ -71,37 +55,13 @@ Data Engineering Concepts
 
 * Read after write consistency - Read-after-write consistency is the ability to view changes (read data) right after making those changes (write data).
 
-* Eventual consistency - 
-
-* ACID - 
-
-
 * Block Storage - Block storage, sometimes referred to as block-level storage, is a technology that is used to store data files on Storage Area Networks (SANs) or cloud-based storage environments. Developers favor block storage for computing situations where they require fast, efficient, and reliable data transportation. [www.ibm.com](https://www.ibm.com/cloud/learn/block-storage)
 
 * File Storage - File storage—also called file-level or file-based storage—is a hierarchical storage methodology used to organize and store data on a computer hard drive or on network-attached storage (NAS) device. In file storage, data is stored in files, the files are organized in folders, and the folders are organized under a hierarchy of directories and subdirectories. To locate a file, all you or your computer system need is the path—from directory to subdirectory to folder to file. [www.ibm.com](https://www.ibm.com/cloud/learn/file-storage)
 
+* Serverless Computing - Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.
 
-* Bit - 
-
-* Byte - 
-
-* Terabyte - 
-
-* Petabyte - 
-
-* Cache - 
-
-* Latency - 
-
-* Input-Output Operations Per Second (IOPS) - 
-
-* Throughput - 
-
-* Bandwidth - 
-
-* Serverless Computing - 
-
-* Serverless Architecture -
+* Serverless Architecture - Serverless architecture is an approach to software design that allows developers to build and run services without having to manage the underlying infrastructure.
 
 * Iaas (Infrastructure as a service) -  are online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc.
 
@@ -109,22 +69,6 @@ Data Engineering Concepts
 
 * Saas (Software as a sercice) - is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is also known as "on-demand software" and Web-based/Web-hosted software.
 
-
-* Cloud Computing -
-
-* Virtualisation - 
-
-* TCP/IP (Transmission Control Protocol/Internet Protocol) - 
-
-* SSH (Secure Shell) - 
-
-* FTP (File Transfer Protocol) -
-
-* HDD (Hard Disk Drive) - 
-
-* SDD (Solid State Drive) - 
-
-* RAM (Random Access Memory) - 
 
 
 
