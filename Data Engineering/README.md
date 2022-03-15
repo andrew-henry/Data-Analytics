@@ -103,11 +103,11 @@ Data Engineering Concepts
 
 * Serverless Architecture -
 
-* Iaas (Infrastructure as a service) - 
+* Iaas (Infrastructure as a service) -  are online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc.
 
-* Paas (Platform as a service) - 
+* Paas (Platform as a service) - is a category of cloud computing services that allows customers to provision, instantiate, run, and manage a modular bundle comprising a computing platform and one or more applications, without the complexity of building and maintaining the infrastructure typically associated with developing and launching the application(s); and to allow developers to create, develop, and package such software bundles
 
-* Saas (Software as a sercice) -
+* Saas (Software as a sercice) - is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is also known as "on-demand software" and Web-based/Web-hosted software.
 
 
 * Cloud Computing -
